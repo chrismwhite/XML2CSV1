@@ -1,0 +1,13 @@
+c:\users\phrea_000\documents\visual studio 2013\Projects\XMLElementsToCSV\XMLElementsToCSV\bin\Debug\XMLElementsToCSV.exe.config
+C:\Users\phrea_000\documents\visual studio 2013\Projects\XMLElementsToCSV\XMLElementsToCSV\bin\Debug\XMLElementsToCSV.exe
+C:\Users\phrea_000\documents\visual studio 2013\Projects\XMLElementsToCSV\XMLElementsToCSV\bin\Debug\XMLElementsToCSV.pdb
+C:\Users\phrea_000\documents\visual studio 2013\Projects\XMLElementsToCSV\XMLElementsToCSV\obj\Debug\XMLElementsToCSV.csprojResolveAssemblyReference.cache
+C:\Users\phrea_000\documents\visual studio 2013\Projects\XMLElementsToCSV\XMLElementsToCSV\obj\Debug\XMLElementsToCSV.Form1.resources
+C:\Users\phrea_000\documents\visual studio 2013\Projects\XMLElementsToCSV\XMLElementsToCSV\obj\Debug\XMLElementsToCSV.Properties.Resources.resources
+C:\Users\phrea_000\documents\visual studio 2013\Projects\XMLElementsToCSV\XMLElementsToCSV\obj\Debug\XMLElementsToCSV.csproj.GenerateResource.Cache
+C:\Users\phrea_000\documents\visual studio 2013\Projects\XMLElementsToCSV\XMLElementsToCSV\obj\Debug\XMLElementsToCSV.exe
+C:\Users\phrea_000\documents\visual studio 2013\Projects\XMLElementsToCSV\XMLElementsToCSV\obj\Debug\XMLElementsToCSV.pdb
+C:\Users\phrea_000\documents\visual studio 2013\Projects\XMLElementsToCSV\XMLElementsToCSV\bin\Debug\XMLElementsToCSV.exe.manifest
+C:\Users\phrea_000\documents\visual studio 2013\Projects\XMLElementsToCSV\XMLElementsToCSV\bin\Debug\XMLElementsToCSV.application
+C:\Users\phrea_000\documents\visual studio 2013\Projects\XMLElementsToCSV\XMLElementsToCSV\obj\Debug\XMLElementsToCSV.exe.manifest
+C:\Users\phrea_000\documents\visual studio 2013\Projects\XMLElementsToCSV\XMLElementsToCSV\obj\Debug\XMLElementsToCSV.application
